@@ -18,7 +18,7 @@ The reservoir is taken to be a network of coupled oscillators which are driven b
   <img src="assets/FDtoCL.jpg" alt="Pipeline" width="700">
 </p>
 
-Let's make this more explicit with the example above: i) For the FD oscillator network we consider $M=3$ and $P=4$. Note that the  populations driven by $u_3$ are not identical since $g_3,g_4$ are different. ii)  In an infinite dimensional setting we can describe the oscillator populations by density functions over the phases and natural frequencies. iii) Using the Ott-Antonsen Ansatz we reduce our study to the average population dynamics. Specifically, for CL oscillator networks we consider the read-out as a function over the average phases, $\psi$.}
+Let's make this more explicit with the example above: i) For the FD oscillator network we consider $M=3$ and $P=4$. Note that the  populations driven by $u_3$ are not identical since $g_3,g_4$ are different. ii)  In an infinite dimensional setting we can describe the oscillator populations by density functions over the phases and natural frequencies. iii) Using the Ott-Antonsen Ansatz we reduce our study to the average population dynamics. Specifically, for CL oscillator networks we consider the read-out as a function over the average phases, $\psi$.
 
 ## About the repo
 
