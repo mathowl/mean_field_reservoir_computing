@@ -8,7 +8,7 @@ This repo contains the code to reproduce the experiments for the manuscript:
   year={2026}
 }
 ```
-The folder naming is as follows: ` M{x}d_{y} `. The x indicates the dimension of the input and the y is either CL, continuum limit, or FD, finite dimensional.  
+The folder naming is as follows: ` M{x}d_{y} `. The `x` indicates the dimension of the input and the `y` is either `CL`, continuum limit, or `FD`, finite dimensional.  
 
 If this repo was useful to you please cite as
 
